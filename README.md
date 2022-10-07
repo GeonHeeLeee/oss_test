@@ -11,4 +11,3 @@
  - git
  - github
 
-한번 fetch를 해보렴
