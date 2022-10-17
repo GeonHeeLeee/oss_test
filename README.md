@@ -11,4 +11,3 @@
  - git
  - github
 
-이거 한번 pull 해봐
